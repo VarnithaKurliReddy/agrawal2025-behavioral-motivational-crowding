@@ -12,7 +12,7 @@ This repository contains Stata replication code for our analysis of the Mid-Hima
 
 ## Data Availability
 
-Research data available on Zenodo: [![DOI](https://doi.org/10.5281/zenodo.16904496)
+Research data available on Zenodo:(https://doi.org/10.5281/zenodo.16904496)
 
 ## Requirements
 
