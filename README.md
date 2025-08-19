@@ -37,12 +37,16 @@ Research data available on Zenodo:(https://doi.org/10.5281/zenodo.16904496)
 ## Repository Structure
 
 ```
+├── 1_data/
+│   └── 1_processed/                 # Processed/cleaned data from Zenodo
 ├── do_files/
 │   ├── 0_project_masterdofile.do    # Master file - runs all analysis
 │   ├── 1_matching_results_project.do # Matching and main results analysis
 │   ├── 2_maintext_figures.do        # Generate main paper figures (1-4)
 │   └── 3_supplementary_figures.do   # Generate supplementary figures & tables
+├── LICENSE                          # Apache License 2.0
 └── README.md
+
 ```
 
 ## Contact
