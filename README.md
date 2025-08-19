@@ -12,7 +12,7 @@ This repository contains Stata replication code for our analysis of the Mid-Hima
 
 ## Data Availability
 
-Research data available on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+Research data available on Zenodo: [![DOI](https://doi.org/10.5281/zenodo.16904496)
 
 ## Requirements
 
@@ -27,7 +27,7 @@ Research data available on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/
 
 ## Usage
 
-1. Download data from Zenodo and extract to `./data/` directory
+1. Download data from Zenodo and extract to `./1_data/1_processed/` directory
 2. Set working directory to repository root
 3. Run master do-file:
    ```stata
